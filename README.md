@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @khperera124
+- 👀 I’m interested in AI machine learning and how neuroscience interacts with artificial intelligence
+- 🌱 I’m currently learning python, java and object oriented programming
+- 📫 How to reach me himainperera@cmail.carleton.ca
+- 😄 Pronouns: he/him
